@@ -1,0 +1,370 @@
+{
+  "categories": [
+    {
+      "id": "garden",
+      "name": "Garden & Hobbies"
+    }
+  ],
+  "records": [
+    {
+      "id": "DEMO_SYNTHETIC_001",
+      "url": "https://www.instagram.com/p/DEMO_SYNTHETIC_001/",
+      "caption": "Synthetic example. Start with a small moment, then write what changes.",
+      "creator": "synthetic_demo",
+      "media_type": "reel",
+      "order": 0,
+      "title": "Turn a memory into a scene",
+      "summary": "Start with a small moment, then write what changes.",
+      "use_when": "Writing a short scene.",
+      "category": "filmmaking",
+      "subcategory": "Writing",
+      "categories": [
+        {
+          "category": "filmmaking",
+          "subcategory": "Writing"
+        }
+      ],
+      "tags": [
+        "filmmaking",
+        "Writing",
+        "synthetic"
+      ],
+      "curated": true,
+      "evidence": "caption",
+      "thumbnail_url": "/art/filmmaking.webp"
+    },
+    {
+      "id": "DEMO_SYNTHETIC_002",
+      "url": "https://www.instagram.com/p/DEMO_SYNTHETIC_002/",
+      "caption": "Synthetic example. Compare a quick cut with a longer reaction shot.",
+      "creator": "synthetic_demo",
+      "media_type": "carousel",
+      "order": 1,
+      "title": "Give a cut room to breathe",
+      "summary": "Compare a quick cut with a longer reaction shot.",
+      "use_when": "Trying a different edit rhythm.",
+      "category": "filmmaking",
+      "subcategory": "Editing",
+      "categories": [
+        {
+          "category": "filmmaking",
+          "subcategory": "Editing"
+        }
+      ],
+      "tags": [
+        "filmmaking",
+        "Editing",
+        "synthetic"
+      ],
+      "curated": true,
+      "evidence": "caption",
+      "thumbnail_url": "/art/filmmaking.webp"
+    },
+    {
+      "id": "DEMO_SYNTHETIC_003",
+      "url": "https://www.instagram.com/p/DEMO_SYNTHETIC_003/",
+      "caption": "Synthetic example. Compare two invented ad concepts with one clear change.",
+      "creator": "synthetic_demo",
+      "media_type": "reel",
+      "order": 2,
+      "title": "Test one clear message",
+      "summary": "Compare two invented ad concepts with one clear change.",
+      "use_when": "Planning a personal creative exercise.",
+      "category": "marketing",
+      "subcategory": "Meta ads",
+      "categories": [
+        {
+          "category": "marketing",
+          "subcategory": "Meta ads"
+        }
+      ],
+      "tags": [
+        "marketing",
+        "Meta ads",
+        "synthetic"
+      ],
+      "curated": true,
+      "evidence": "caption",
+      "thumbnail_url": "/art/marketing.webp"
+    },
+    {
+      "id": "DEMO_SYNTHETIC_004",
+      "url": "https://www.instagram.com/p/DEMO_SYNTHETIC_004/",
+      "caption": "Synthetic example. Start with the problem the audience recognizes.",
+      "creator": "synthetic_demo",
+      "media_type": "reel",
+      "order": 3,
+      "title": "Write a sharper opening",
+      "summary": "Start with the problem the audience recognizes.",
+      "use_when": "Drafting a practice script.",
+      "category": "marketing",
+      "subcategory": "Hooks & copy",
+      "categories": [
+        {
+          "category": "marketing",
+          "subcategory": "Hooks & copy"
+        }
+      ],
+      "tags": [
+        "marketing",
+        "Hooks & copy",
+        "synthetic"
+      ],
+      "curated": true,
+      "evidence": "caption",
+      "thumbnail_url": "/art/marketing.webp"
+    },
+    {
+      "id": "DEMO_SYNTHETIC_005",
+      "url": "https://www.instagram.com/p/DEMO_SYNTHETIC_005/",
+      "caption": "Synthetic example. An invented recipe reference for a relaxed evening.",
+      "creator": "synthetic_demo",
+      "media_type": "reel",
+      "order": 4,
+      "title": "A simple one-pan dinner",
+      "summary": "An invented recipe reference for a relaxed evening.",
+      "use_when": "Planning your next meal.",
+      "category": "food",
+      "subcategory": "Recipes",
+      "categories": [
+        {
+          "category": "food",
+          "subcategory": "Recipes"
+        }
+      ],
+      "tags": [
+        "food",
+        "Recipes",
+        "synthetic"
+      ],
+      "curated": true,
+      "evidence": "caption",
+      "thumbnail_url": "/art/food.webp"
+    },
+    {
+      "id": "DEMO_SYNTHETIC_006",
+      "url": "https://www.instagram.com/p/DEMO_SYNTHETIC_006/",
+      "caption": "Synthetic example. A synthetic meal idea with grains, fruit and yogurt.",
+      "creator": "synthetic_demo",
+      "media_type": "reel",
+      "order": 5,
+      "title": "Build a breakfast bowl",
+      "summary": "A synthetic meal idea with grains, fruit and yogurt.",
+      "use_when": "Choosing an easy breakfast.",
+      "category": "food",
+      "subcategory": "High protein",
+      "categories": [
+        {
+          "category": "food",
+          "subcategory": "High protein"
+        }
+      ],
+      "tags": [
+        "food",
+        "High protein",
+        "synthetic"
+      ],
+      "curated": true,
+      "evidence": "caption",
+      "thumbnail_url": "/art/food.webp"
+    },
+    {
+      "id": "DEMO_SYNTHETIC_007",
+      "url": "https://www.instagram.com/p/DEMO_SYNTHETIC_007/",
+      "caption": "Synthetic example. Save a route idea and check the weather before leaving.",
+      "creator": "synthetic_demo",
+      "media_type": "reel",
+      "order": 6,
+      "title": "A quiet weekend walk",
+      "summary": "Save a route idea and check the weather before leaving.",
+      "use_when": "Planning a day outside.",
+      "category": "places",
+      "subcategory": "Travel",
+      "categories": [
+        {
+          "category": "places",
+          "subcategory": "Travel"
+        }
+      ],
+      "tags": [
+        "places",
+        "Travel",
+        "synthetic"
+      ],
+      "curated": true,
+      "evidence": "caption",
+      "thumbnail_url": "/art/places.webp"
+    },
+    {
+      "id": "DEMO_SYNTHETIC_008",
+      "url": "https://www.instagram.com/p/DEMO_SYNTHETIC_008/",
+      "caption": "Synthetic example. An invented place reference; no real location is provided.",
+      "creator": "synthetic_demo",
+      "media_type": "reel",
+      "order": 7,
+      "title": "Find a neighbourhood caf\u00e9",
+      "summary": "An invented place reference; no real location is provided.",
+      "use_when": "Exploring your own neighbourhood.",
+      "category": "places",
+      "subcategory": "Restaurants & places",
+      "categories": [
+        {
+          "category": "places",
+          "subcategory": "Restaurants & places"
+        }
+      ],
+      "tags": [
+        "places",
+        "Restaurants & places",
+        "synthetic"
+      ],
+      "curated": true,
+      "evidence": "caption",
+      "thumbnail_url": "/art/places.webp"
+    },
+    {
+      "id": "DEMO_SYNTHETIC_009",
+      "url": "https://www.instagram.com/p/DEMO_SYNTHETIC_009/",
+      "caption": "Synthetic example. A synthetic reminder to keep a short reading habit.",
+      "creator": "synthetic_demo",
+      "media_type": "reel",
+      "order": 8,
+      "title": "Read a little every day",
+      "summary": "A synthetic reminder to keep a short reading habit.",
+      "use_when": "Making time for a book.",
+      "category": "learning",
+      "subcategory": "Learning & reading",
+      "categories": [
+        {
+          "category": "learning",
+          "subcategory": "Learning & reading"
+        }
+      ],
+      "tags": [
+        "learning",
+        "Learning & reading",
+        "synthetic"
+      ],
+      "curated": true,
+      "evidence": "caption",
+      "thumbnail_url": "/art/learning.webp"
+    },
+    {
+      "id": "DEMO_SYNTHETIC_010",
+      "url": "https://www.instagram.com/p/DEMO_SYNTHETIC_010/",
+      "caption": "Synthetic example. Compare capabilities against what your hobby project needs.",
+      "creator": "synthetic_demo",
+      "media_type": "reel",
+      "order": 9,
+      "title": "Keep a tool comparison",
+      "summary": "Compare capabilities against what your hobby project needs.",
+      "use_when": "Choosing a tool for a personal project.",
+      "category": "technology",
+      "subcategory": "AI tools",
+      "categories": [
+        {
+          "category": "technology",
+          "subcategory": "AI tools"
+        }
+      ],
+      "tags": [
+        "technology",
+        "AI tools",
+        "synthetic"
+      ],
+      "curated": true,
+      "evidence": "caption",
+      "thumbnail_url": "/art/technology.webp"
+    },
+    {
+      "id": "DEMO_SYNTHETIC_011",
+      "url": "https://www.instagram.com/p/DEMO_SYNTHETIC_011/",
+      "caption": "Synthetic example. An invented seed-starting reference, without instructions from a real post.",
+      "creator": "synthetic_demo",
+      "media_type": "reel",
+      "order": 10,
+      "title": "Start a kitchen herb garden",
+      "summary": "An invented seed-starting reference, without instructions from a real post.",
+      "use_when": "Planning a hobby garden.",
+      "category": "garden",
+      "subcategory": "Seed starting",
+      "categories": [
+        {
+          "category": "garden",
+          "subcategory": "Seed starting"
+        }
+      ],
+      "tags": [
+        "garden",
+        "Seed starting",
+        "synthetic"
+      ],
+      "curated": true,
+      "evidence": "caption",
+      "thumbnail_url": "/art/neutral.webp"
+    },
+    {
+      "id": "DEMO_SYNTHETIC_012",
+      "url": "https://www.instagram.com/p/DEMO_SYNTHETIC_012/",
+      "caption": "Synthetic example. A synthetic gardening reference for recording observations.",
+      "creator": "synthetic_demo",
+      "media_type": "reel",
+      "order": 11,
+      "title": "Keep a watering note",
+      "summary": "A synthetic gardening reference for recording observations.",
+      "use_when": "Reviewing plant care notes.",
+      "category": "garden",
+      "subcategory": "Plant care",
+      "categories": [
+        {
+          "category": "garden",
+          "subcategory": "Plant care"
+        }
+      ],
+      "tags": [
+        "garden",
+        "Plant care",
+        "synthetic"
+      ],
+      "curated": true,
+      "evidence": "caption",
+      "thumbnail_url": "/art/neutral.webp"
+    },
+    {
+      "id": "DEMO_SYNTHETIC_013",
+      "url": "https://www.instagram.com/p/DEMO_SYNTHETIC_013/",
+      "caption": "Synthetic example. No useful caption was available in this synthetic example.",
+      "creator": "synthetic_demo",
+      "media_type": "reel",
+      "order": 12,
+      "title": "A save that needs context",
+      "summary": "No useful caption was available in this synthetic example.",
+      "use_when": "Opening the original to remember your intent.",
+      "category": "review",
+      "subcategory": "Unsorted",
+      "categories": [
+        {
+          "category": "review",
+          "subcategory": "Unsorted"
+        }
+      ],
+      "tags": [
+        "review",
+        "Unsorted",
+        "synthetic"
+      ],
+      "curated": true,
+      "evidence": "thumbnail",
+      "thumbnail_url": "/art/review.webp"
+    }
+  ],
+  "batch_id": "synthetic-demo-v1",
+  "coverage": {
+    "account": "synthetic_demo",
+    "status": "complete",
+    "message": "Synthetic demonstration: invented records and illustrations. No real Instagram library or working post links.",
+    "all_posts_end_confirmed": false,
+    "demo": true,
+    "discovered": 13
+  }
+}

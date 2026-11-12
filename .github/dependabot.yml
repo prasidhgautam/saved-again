@@ -1,0 +1,17 @@
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /skills/saved-again/assets/dashboard
+    schedule:
+      interval: weekly
+    groups:
+      dashboard-dependencies:
+        patterns: ['*']
+  - package-ecosystem: pip
+    directory: /skills/saved-again/assets/dashboard/backend
+    schedule:
+      interval: weekly
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly

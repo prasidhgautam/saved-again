@@ -1,0 +1,4 @@
+interface:
+  display_name: "SavedAgain"
+  short_description: "Turn Instagram saves into a private useful collection"
+  default_prompt: "Use $saved-again to organize my Instagram Saved library and open my private dashboard."

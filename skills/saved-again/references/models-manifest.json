@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "policy": "SavedAgain never downloads model weights. Download and license-review them explicitly, then configure local paths.",
+  "models": [
+    {
+      "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "purpose": "multilingual text similarity",
+      "environment": "SAVEDAGAIN_SENTENCE_MODEL",
+      "revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+      "expected_file": "model.safetensors",
+      "sha256": "eaa086f0ffee582aeb45b36e34cdd1fe2d6de2bef61f8a559a1bbc9bd955917b",
+      "size_bytes": 470641600,
+      "license": "Apache-2.0",
+      "source": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+    },
+    {
+      "id": "laion/CLIP-ViT-B-32-laion2B-s34B-b79K",
+      "purpose": "visual similarity",
+      "environment": "SAVEDAGAIN_OPENCLIP_CHECKPOINT",
+      "revision": "1a25a446712ba5ee05982a381eed697ef9b435cf",
+      "expected_file": "model.safetensors",
+      "sha256": "74813fbcdc750f235c9784c367ca1394d2a5c25eb0aac92761752ac239db7cff",
+      "size_bytes": 605157884,
+      "license": "MIT",
+      "source": "https://huggingface.co/laion/CLIP-ViT-B-32-laion2B-s34B-b79K"
+    },
+    {
+      "id": "PaddleOCR-Latin-recognition",
+      "purpose": "Latin-script OCR",
+      "environment": "SAVEDAGAIN_PADDLEOCR_LATIN_MODEL",
+      "distribution": "operator-provided PaddleOCR model directory",
+      "license": "Apache-2.0",
+      "source": "https://paddlepaddle.github.io/PaddleOCR/latest/en/version3.x/module_usage/text_recognition.html"
+    },
+    {
+      "id": "PaddleOCR-Devanagari-PP-OCRv5",
+      "purpose": "Hindi and Devanagari OCR",
+      "environment": "SAVEDAGAIN_PADDLEOCR_DEVANAGARI_MODEL",
+      "distribution": "operator-provided PaddleOCR model directory",
+      "license": "Apache-2.0",
+      "source": "https://paddlepaddle.github.io/PaddleOCR/latest/en/version3.x/module_usage/text_recognition.html"
+    },
+    {
+      "id": "PaddleOCR-detection",
+      "purpose": "text-region detection",
+      "environment": "SAVEDAGAIN_PADDLEOCR_DETECTION_MODEL",
+      "distribution": "operator-provided PaddleOCR model directory",
+      "license": "Apache-2.0",
+      "source": "https://paddlepaddle.github.io/PaddleOCR/latest/en/version3.x/module_usage/text_detection.html"
+    },
+    {
+      "id": "qwen3:4b",
+      "purpose": "optional local structured summary",
+      "runtime": "ollama",
+      "registry_manifest_digest": "sha256:e18a783aae5525fd2852fc94c985541a77e791e034abc2d3056474d59de336fc",
+      "model_layer_digest": "sha256:3e4cb14174460404e7a233e531675303b2fbf7749c02f91864fe311ab6344e4f",
+      "size_bytes": 2497280480,
+      "license": "Apache-2.0",
+      "source": "https://ollama.com/library/qwen3:4b"
+    }
+  ]
+}

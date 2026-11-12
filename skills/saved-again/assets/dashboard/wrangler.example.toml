@@ -1,0 +1,23 @@
+name = "savedagain"
+main = "worker/index.js"
+compatibility_date = "2026-11-12"
+workers_dev = false
+
+[assets]
+directory = "./dist/client"
+binding = "ASSETS"
+run_worker_first = ["/api/*", "/media/*"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "savedagain"
+database_id = "00000000-0000-0000-0000-000000000000"
+migrations_dir = "cloudflare/migrations"
+
+[[r2_buckets]]
+binding = "PREVIEWS"
+bucket_name = "savedagain-previews"
+
+# Template only. Generate wrangler.toml with `savedagain.py cloud-template`.
+# Configure secrets with `wrangler secret put`, never in this file:
+# ACCESS_TEAM_DOMAIN, ACCESS_AUD, ALLOWED_EMAIL, SYNC_SECRET

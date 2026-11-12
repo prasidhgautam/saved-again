@@ -1,0 +1,15 @@
+.git
+node_modules
+dist
+.venv
+__pycache__
+.pytest_cache
+*.pyc
+*.sqlite*
+*.db
+.access-key
+.env
+library
+capture
+backups
+evidence
